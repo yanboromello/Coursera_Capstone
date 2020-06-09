@@ -1,5 +1,4 @@
-
-# coding: utf-8
+# Coursera_Capstone
 
 # # This Notebook will be used only for the IBM Data Science course - Capstone Project - Final Course
 # ## Yan Boromello
